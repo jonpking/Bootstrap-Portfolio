@@ -1,0 +1,7 @@
+body {
+  background-image: url("../images/concrete_seamless.png")
+}
+
+#cat {
+  max-width: 200px;
+}
