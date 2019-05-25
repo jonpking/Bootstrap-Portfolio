@@ -5,3 +5,7 @@ body {
 #cat {
   max-width: 200px;
 }
+
+.border-top {
+  border-width: 8px !important;
+}
